@@ -1,0 +1,25 @@
+body {
+color: rgb(255, 255, 255);
+background-color: rgb(23, 22, 22);
+
+}
+.Header , h1 {
+background-color: rgb(57, 57, 57);
+border-radius: 5px;
+
+}
+a {
+color: rgb(18, 0, 157);
+background-color: rgba(7, 7, 7, 0.726);
+text-decoration: none;
+border-radius: 3px;
+}
+a:active {
+color: rgb(0, 0, 0);
+background-color: rgb(255, 255, 255);
+}
+footer { 
+    background-color: rgb(18, 18, 19);
+border-radius:12px;
+
+}
