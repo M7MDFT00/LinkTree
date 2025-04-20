@@ -33,3 +33,10 @@ footer h1 {
 footer {
     background-color: #424141;
 }
+footer { 
+    background-color: rgb(18, 18, 19);
+    border-radius:12px;
+}
+h1 {
+    display: inline-block;
+}
